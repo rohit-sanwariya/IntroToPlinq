@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uPVEfglydxWMwVfRJ0Q/6hlxoSB567WXyzZQxTyMcWIt98l2p6gOC0QblwP+HMdGAHi4T0PbXy1U4gJpKA/xvg==",
+  "success": true,
+  "projectFilePath": "D:\\code\\dotnet\\IntroToPlinq\\IntroToPlinq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rohit\\.nuget\\packages\\dumpify\\0.6.5\\dumpify.0.6.5.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\spectre.console\\0.48.0\\spectre.console.0.48.0.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
